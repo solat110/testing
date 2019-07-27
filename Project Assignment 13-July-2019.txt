@@ -1,0 +1,22 @@
+data read 
+data create, delete, write
+
+Create Student information
+name 
+father name
+class admission
+role number
+subject list
+------------
+check if student already available, if not error (role number)
+--------------------
+read all student data in each class
+-------------------------------
+if student want to update info then he can update but role number can not change,
+student can not update data,
+
+-------------------------
+delete functions
+delete student information from Class and role numbers,
+-------------------------------
+create menue for all these options.
